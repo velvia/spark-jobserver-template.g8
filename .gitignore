@@ -1,0 +1,8 @@
+# Standard sbt ignores
+target/
+src_managed/
+project/boot/
+test-reports/
+.ensime*
+.idea*
+.vagrant
